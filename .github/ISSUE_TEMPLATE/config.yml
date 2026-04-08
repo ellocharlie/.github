@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ellocharlie Documentation
+    url: https://www.ellocharlie.com
+    about: Check our documentation before opening an issue
+  - name: General Questions
+    url: mailto:hello@ellocharlie.com
+    about: For general questions, email us
+  - name: Security Vulnerabilities
+    url: mailto:security@ellocharlie.com
+    about: Report security issues privately — do NOT open a public issue
